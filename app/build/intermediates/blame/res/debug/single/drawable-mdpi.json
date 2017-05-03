@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_on_off.png",
+        "source": "/media/ankit/UUI/WifiDirectDemo/app/src/main/res/drawable-mdpi/ic_action_on_off.png"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/media/ankit/UUI/WifiDirectDemo/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/media/ankit/UUI/WifiDirectDemo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_discover.png",
+        "source": "/media/ankit/UUI/WifiDirectDemo/app/src/main/res/drawable-mdpi/ic_action_discover.png"
+    }
+]

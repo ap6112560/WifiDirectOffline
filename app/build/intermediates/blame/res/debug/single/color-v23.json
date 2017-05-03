@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]

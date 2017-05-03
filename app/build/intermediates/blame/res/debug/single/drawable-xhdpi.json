@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_discover.png",
+        "source": "/media/ankit/UUI/WifiDirectDemo/app/src/main/res/drawable-xhdpi/ic_action_discover.png"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/edittext_bg.png",
+        "source": "/media/ankit/UUI/WifiDirectDemo/app/src/main/res/drawable-xhdpi/edittext_bg.png"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/media/ankit/UUI/WifiDirectDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_send.png",
+        "source": "/media/ankit/UUI/WifiDirectDemo/app/src/main/res/drawable-xhdpi/ic_send.png"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_on_off.png",
+        "source": "/media/ankit/UUI/WifiDirectDemo/app/src/main/res/drawable-xhdpi/ic_action_on_off.png"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/chat_bubble_gray.png",
+        "source": "/media/ankit/UUI/WifiDirectDemo/app/src/main/res/drawable-xhdpi/chat_bubble_gray.png"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/chat_bubble_green.png",
+        "source": "/media/ankit/UUI/WifiDirectDemo/app/src/main/res/drawable-xhdpi/chat_bubble_green.png"
+    }
+]

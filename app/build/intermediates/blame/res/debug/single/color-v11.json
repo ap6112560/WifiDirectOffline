@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

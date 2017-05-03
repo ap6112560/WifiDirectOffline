@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/ankit/UUI/WifiDirectDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ankit/.android/build-cache/84b46f428226d203e9c392071c65f7b95cbe3ee3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
